@@ -1,0 +1,29 @@
+input{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+}
+
+legend{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    font-size: 1.5em;
+    color: #FFFFFF;
+}
+
+label{
+    font-family: 'Hammersmith One', sans-serif;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+#bookList{
+    font-family: 'Hammersmith One', sans-serif;
+    font-weight: 400;
+    color: #FFFFFF;
+    background-color: #226B81;
+    border: 1px inset cornflowerblue;
+}
+
+body{
+    background-color: #428BCA;
+}
